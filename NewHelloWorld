@@ -5,5 +5,6 @@ public class NewHelloWorld{
     System.out.println("Hello World");
     System.out.println("This is Jingxian Huang's Codes");
     System.out.println("My name is Connie.");
+    System.out.println("My name is Gerald.");
   }
 }
